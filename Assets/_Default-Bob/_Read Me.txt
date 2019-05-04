@@ -1,0 +1,9 @@
+Mouse0 = normal sound
+- "Space" after mouse 0 = Pool sound
+
+In Unity
+- "F1" = restart scene
+- "F4" = Quit Unity Play Mode
+
+In Build
+- "Escape" = Quit Build Mode
